@@ -32,5 +32,4 @@ This repository contains hands-on coding exercises designed to deepen understand
 
 ---
 
-## 📁 Repository Structure
 
